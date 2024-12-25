@@ -2,9 +2,7 @@
     display: flex;
     justify-content: center;
     background-color: white;
-    padding: -100px;
-    margin-left: 400px;
-    margin-right: 400px;
+ 
 }
 .titulo{
     justify-content: center;
