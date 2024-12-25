@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: -100px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.titulo{
+    justify-content: center;
+    text-align: center;
+}
+.nav{
+    display: flex;
+    margin: 0px;
+    padding: 10px;
+    justify-content: space-between;
+    
+}
+.imgventi{
+    justify-content: left;
+}
+.body{
+    background-color:#5758f5 ;
+
+}
+.imgmeta{
+    justify-content: right;
+    text-align: right;
+    width: 50%;
+}
